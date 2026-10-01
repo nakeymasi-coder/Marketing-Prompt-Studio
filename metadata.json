@@ -1,0 +1,8 @@
+{
+  "name": "GLAM Marketing Prompt Generator",
+  "description": "Beginner-friendly marketing prompt studio for creating evidence-led research, sales listings, social content, emails, visual prompts, and launch plans.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
